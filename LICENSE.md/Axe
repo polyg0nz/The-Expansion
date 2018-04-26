@@ -1,0 +1,2 @@
+local AnimationsFile = game.ReplicatedStorage.ClientAnimations
+local plr = game.Players.LocalPLayer
